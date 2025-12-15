@@ -1,12 +1,14 @@
 Welcome to my GitHub Page! :wave:, below is a brief summary
 
-### Research Project, Programming language: Python
+### Research Project
 - [Celebrity_Network_2009-2019](https://github.com/xz2623/Celebrity_Network_2009-2019): This folder contains scripts I coded for empirical research on the Chinese movie market :movie_camera: through the lens of social influence.
+  **- Programming Language: Python** 
 - ***Data_Cleaning.ipynb***: Web-scraped and preprocessed 2,200+ demographic records from Baidu Encyclopedia
 - ***Individual & Aggregated Network Build.ipynb***: Constructed large-scale celebrity networks (5,856 nodes, 2009–2019) applying adjacency rules based on collaboration, education, kinship, and birthplace, and applied network analysis techniques to compute centrality measures (degree, closeness, betweenness, eigenvector)
 
-### Group Project: Consulting, Programming language: Python
+### Group Project: Consulting
 - [customer_recovery](https://github.com/xz2623/customer_recovery): contains the deliverables(code) for Jetta, :car: a sub-brand of Volkswagen, where we, as data analysis consultants, were hired to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
+	**- Programming Language: Python** 
 - Conducted data pre-processing and exploratory data analysis on available customer data, including
 	- activities at the physical stores, test driving, conversation topics, expressed interests, etc.
  	- behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
