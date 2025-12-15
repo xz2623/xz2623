@@ -10,7 +10,7 @@ Welcome to my GitHub Page! :wave:, below is a brief summary
 - Conducted data pre-processing and exploratory data analysis on available customer data, including
 	- activities at the physical stores, test driving, conversation topics, expressed interests, etc.
  	- behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
-- aggregated the data at the level of each visitor and built a viable ML model that predicts how likely each customer is to be re-acquired.
+- aggregated the data at the visitor level and built a viable ML model that predicts how likely each customer is to be re-acquired.
 <details>
   <summary>Folder Category and Description in English</summary>
 
